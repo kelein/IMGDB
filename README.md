@@ -1,7 +1,7 @@
 # IMGDB
-A repository of images refer to my own project to show how the project works.
+> A repository of images refer to my own project to show how the project works.
 
-### Images of RegProj
+### Images of [RegProj][1]
 ####### Kallen Ding, Sep 7 2015
 ```
 └── RegProj
@@ -9,4 +9,4 @@ A repository of images refer to my own project to show how the project works.
     ├── Login.png
     └── Regis.png
 ```
-
+  [1]: https://github.com/Keleir/RegProj.git
