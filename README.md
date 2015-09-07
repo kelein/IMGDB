@@ -17,8 +17,9 @@
 ```
 
 
-  [1]: https://github.com/Keleir/Arigue
-  [2]: https://github.com/Keleir/RegProj.git
+
+  [1]: https://github.com/Keleir/RegProj
+  [2]: https://github.com/Keleir/Arigue
   
   
  
